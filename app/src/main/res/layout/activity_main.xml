@@ -102,6 +102,7 @@
         <Button
             android:id="@+id/button_1"
             android:layout_margin="5dp"
+            android:textColor="@color/black"
             android:text="1" />
 
         <Button
